@@ -13,32 +13,14 @@
   "Names": { 
     "Latin charset": [
       "John O'Grady",
-      "Peter de Montfort",
-      "John James O'Grady",
-      "John James \"Jimmy\" O'Grady",
       "José Casal-Giménez",
       "María-Jose Carreño Quiñones",
       "Milan Vojnovič",
       "Chloë Rømer",
       "Björk Guðmundsdóttir",
-      "Rosalind Arusha Arkadina Altalune Florence Thurman-Busson",
-      "Leone Sextus Denys Oswolf Fraudatifilius Tollemache-Tollemache de Orellana Plantagenet Tollemache-Tollemache",
       "Alasdair Mór Ùisdean GillEasbaig 'ic Iain Mac a' Ghobhainn Fear an t-Srònaich",
       "Abu Karim Muhammad al-Jamil ibn Nidal ibn Abdulaziz al-Filistini",
       "Nguyễn Tấn Dũng"
-    ],
-    "Name length": [
-      "Rhoshandiatellyneshiaunneveshenk",
-      "StopFortnumAndMasonFoieGras",
-      "Stephen O",
-      "A Martinez",
-      "They"
-    ],
-    "Unusual accents/chars": [
-      "Keihanaikukauakahihuliheʻekahaunaele",
-      "GoVeg.com",
-      "Number 16 Bus Shelter",
-      "John Blake Cusack 2.0"
     ],
     "Other charsets": {
       "Japanese": "田中太郎",
@@ -70,8 +52,6 @@
   "Cities": {
     "Scandinavian letters": "Ærøskøbing",
     "Welsh": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch",
-    "Single letter - Norwegian": "Å",
-    "Single letter - France": "Y"
   },
   "E-mail addresses": {
     "Valid" :{
@@ -109,39 +89,6 @@
       "Invalid IP format": "email@111.222.333.44444",
       "Multiple dots in the domain": "email@domain..com"
     }
-  },
-  "URLs": {
-    "Valid": [
-      "www.mysite.com",
-      "mysite.com",
-      "http://www.mysite.com",
-      "https://www.mysite.com",
-      "http://www.mysite.com:80",
-      "ftp://mysite.com",
-      "https://www.xn--80ak6aa92e.com/"
-    ],
-    "Invalid": [
-      "http//www.mysite.com",
-      "http:/www.mysite.com",
-      "://www.mysite.com",
-      "foo://www.mysite.com",
-      "http://:",
-      "mysite"
-    ]
-  },
-  "Numbers": [
-    "0",
-    "32767", "32768", "32769",
-    "65535", "65536", "65537",
-    "2147483647", "2147483648", "2147483649",
-    "4294967295", "4294967296", "4294967297",
-    "1E-16", "-1", "0.0001",
-    "1,234,567", "1.234.567,89"
-  ],
-  "Amounts": ["5000", "$5,000", "$5 000", "$5,000.00"],
-  "Currencies": {
-    "No decimals": "JPY",
-    "3 Decimals": "KWD"
   },
   "Payment cards": {
      "Authorize.net": {
